@@ -77,7 +77,7 @@ ___
 ![captura pantalla](assets/imagen-13.png)
 ___
 
-### Referencia al Proyecto: -----
+### Referencia al Proyecto: https://github.com/toby959/challenge
 
 ### Extras:
 #### Se desencripto el reto solicitado.
@@ -86,7 +86,7 @@ ___
 #### Se le agregó a la URL de 'Challenge' una imagen thumbnail 'incognita'.
 ![captura pantalla](assets/imagen-15.png)
 
-#### GitHub Pages: ----------
+#### GitHub Pages: 
 
-#### Codigó QR de la página: 
-![código QR de la página](assets/)
+#### Codigó QR de la página: https://toby959.github.io/challenge/
+![código QR de la página](assets/frame.png)
