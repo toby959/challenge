@@ -86,7 +86,7 @@ ___
 #### Se le agregó a la URL de 'Challenge' una imagen thumbnail 'incognita'.
 ![captura pantalla](assets/imagen-15.png)
 
-#### GitHub Pages: 
+#### GitHub Pages: https://toby959.github.io/challenge/
 
-#### Codigó QR de la página: https://toby959.github.io/challenge/
+#### Codigó QR de la página: 
 ![código QR de la página](assets/frame.png)
